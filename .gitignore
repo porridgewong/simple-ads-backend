@@ -1,0 +1,7 @@
+Vagrantfile
+provision.sh
+.idea
+*.deb
+.vagrant
+
+jdk-8u291-linux-x64.tar.gz
